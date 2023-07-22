@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=It21165498&hide_border=false&include_all_commits=true&theme=dark&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=th-perera&hide_border=false&include_all_commits=true&theme=dark&count_private=true&layout=compact)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -22,7 +22,7 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>         
           
           
-  ![](https://github-readme-stats.vercel.app/api?username=It21165498&show_icons=true&theme=dracula&hide=stars,issues)
+  ![](https://github-readme-stats.vercel.app/api?username=th-perera&show_icons=true&theme=dracula&hide=stars,issues)
           
 </p>
 
